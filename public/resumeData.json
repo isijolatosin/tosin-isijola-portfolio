@@ -1,0 +1,213 @@
+{
+  "main": {
+    "name": "Oluwatosin Isijola",
+    "occupation": "Software Developer",
+    "description": "Specializing in scalable, high-performance Web and Mobile applications using React.js, a JavaScript library for front-end frame-work, Redux/React Context API for my state management and React-Native for Mobile-app development. Always available to learn for growth improvement and development ",
+    "image": "Tony.jpeg",
+    "bio": "My name is Oluwatosin, I'm a Software Developer. I also have over a decade experience in animation graphics. Currently I am open to working with a reputable company willing to put me to work. ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything within software development.",
+    "email": "isijolatony@gmail.com",
+    "phone": "+1 437 220 8744",
+    "address": {
+      "street": "90 Abbotsbury dr",
+      "city": "Ontario",
+      "state": "CA",
+      "zip": "ABC 123"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/toeneahcassy",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/oluwatosin-isijola-33333ba8/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/itstreysong_stayhumble/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/isijolatosin",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "React.js, HTML5/JSX, CSS/SASS, JavaScript, Git, Node.js, Express.js, npm/npx, React Content API, Redux, Firebase, MongoDB, Material UI",
+    "education": [
+      {
+        "school": "Adekunle Ajasin University",
+        "degree": "BSc. Industrial Mathematics",
+        "graduated": "April 2008",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Mickey Muller International (IT Solution)",
+        "title": "Front-End Web Development",
+        "years": "January 2019 - Present",
+        "description": "Manage IT related issues, from debugging to trouble shooting. Develop web application on demand by clients and serviced customers. Database Management. Still Graphics Designing. Web Content MAnagement."
+      },
+      {
+        "company": "Global Youth Leaders Forum",
+        "title": "Front-End Web Development",
+        "years": "January 2017 - December 2018",
+        "description": "Social media platform management. Weekly Newsletter dispatcher. Daily website content management. Online marketing for upcoming events. Server management. Database management. Still Graphic Design. Manage IT related issues,from debugging to trouble shooting."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React.Js",
+        "level": "100%"
+      },
+      {
+        "name": "React-Native",
+        "level": "100%"
+      },
+      {
+        "name": "CSS/SASS",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "HTML5/JXS",
+        "level": "100%"
+      },
+      {
+        "name": "Firebase",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "90%"
+      },
+      {
+        "name": "React Context API",
+        "level": "98%"
+      },
+      {
+        "name": "Redux",
+        "level": "98%"
+      },
+      {
+        "name": "Material UI",
+        "level": "100%"
+      },
+      {
+        "name": "Node.js",
+        "level": "95%"
+      },
+      {
+        "name": "Express.js",
+        "level": "95%"
+      },
+      {
+        "name": "NPM/NPX",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Slack-clone",
+        "category": "Slack Clone built with ReactJS and Firebase",
+        "image": "slack-clone.jpeg",
+        "url": "https://slack-clone-c198d.web.app/room/Xzx8yiO5MZEecoPMbwNA"
+      },
+      {
+        "title": "Coffee Shop",
+        "category": "Coffee Shop built with HTML, CSS and JavaScript",
+        "image": "coffee-shop.jpeg",
+        "url": "https://isijolatosin.github.io/coffee-shop/"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://facebook-clone-c07e0.web.app/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS and Firebase",
+        "image": "amazon-clone.jpeg",
+        "url": "https://azn-clone.netlify.app"
+      },
+      {
+        "title": "Car Hub",
+        "category": "Car hub built with ReactJS",
+        "image": "car_hub.jpeg",
+        "url": "https://cars360.netlify.app/"
+      },
+      {
+        "title": "iMessage Clone",
+        "category": "iMessage Clone built with ReactJS, Redux and Firebase",
+        "image": "iMessage-clone.jpeg",
+        "url": "https://imessage-clone-a7c52.web.app/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix Clone built with ReactJS and Firebase",
+        "image": "netflix-clone.jpeg",
+        "url": "https://netflix-clone-ced2a.web.app/"
+      },
+      {
+        "title": "Youtube Clone",
+        "category": "Youtube Clone built with ReactJS and Firebase",
+        "image": "youtube-clone.jpeg",
+        "url": "https://clone-13746.web.app/"
+      },
+      {
+        "title": "Whatsapp Clone",
+        "category": "Whatsapp Clone built with ReactJS, Redux and Firebase",
+        "image": "whatsapp-clone.jpeg",
+        "url": "https://whatsapp-clone-bf7b6.web.app/"
+      },
+      {
+        "title": "Discord Clone",
+        "category": "Discord Clone built with ReactJS, Redux and Firebase",
+        "image": "discord-clone.jpeg",
+        "url": "https://discord-clone-f2caf.web.app/"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Airbnb Clone built with ReactJS and Firebase",
+        "image": "airbnbClone.jpeg",
+        "url": "https://airbnb-clone-32e27.web.app/"
+      },
+      {
+        "title": "Hulu Clone",
+        "category": "Hulu Clone built with ReactJS and Firebase",
+        "image": "hulu-clone.jpeg",
+        "url": "https://hulu-clone-demo-app.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Tosin is a very dedicated and self initiative person. He is someone that gets on a job and make sure he sees the ends of it. He is a determined young man and always willing to learn. His ability to give feedback makes him exceptional to me. He is one person I will always recommend for a good service.",
+        "user": "Justin Tim"
+      },
+      {
+        "text": "Tosin is a remarkable web developer I must say. Not only is he a great problem solver , he has the attributes of a perfectionist, he takes pride in his work, and is always ready to acquire new knowledge If given the  opportunity I have no doubt that he will be one of your finest web developers",
+        "user": "Esther Odi"
+      }
+    ]
+  }
+}
